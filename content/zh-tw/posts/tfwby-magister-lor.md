@@ -2,6 +2,7 @@
 title: "蒼空彼端的故事第二章：魔導師洛 (Magister Lor)"
 date: 2018-03-09T00:18:00+08:00
 description: "輕型敘事向系統，蒼空彼端的故事系列第二作。描述魔法師徒與惡魔間的爭鬥，劇情支援玩家之間的對抗。"
+image: images/post-feature/tfwby-magister-lor_200.jpg
 tags: 
 - 英文
 - 輕系統

@@ -2,6 +2,7 @@
 title: "蒼穹的紀錄 (Archives of the sky)"
 date: 2018-05-06T00:00:00+08:00
 description: "共同創作敘事向系統，描述在浩瀚宇宙中漫遊的「家族」，在面對各樣抉擇挑戰時，是否仍能貫徹心中的原則？"
+image: images/post-feature/archives-of-the-sky_200.jpg
 tags: 
 - 英文
 - 無GM

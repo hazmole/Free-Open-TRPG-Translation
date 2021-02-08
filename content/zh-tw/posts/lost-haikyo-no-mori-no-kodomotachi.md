@@ -2,6 +2,7 @@
 title: "LOST ~廢墟森林的孩子們~ (廃墟の森の子供たち)"
 date: 2018-05-11T00:00:00+08:00
 description: "仿骰子話劇架構的日系系統，生存探險風格，描述一群在末日後於廢墟森林中冒險、求生、並與野獸奮鬥的孩子們的故事。"
+image: images/post-feature/lost-haikyo-no-mori-no-kodomotachi_200.jpg
 tags: 
 - 日文
 - 仿骰子話劇

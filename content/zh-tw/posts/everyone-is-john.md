@@ -2,6 +2,7 @@
 title: "人人都是約翰 (Everyone is John)"
 date: 2018-04-12T00:00:00+08:00
 description: "一頁TRPG，玩家們將扮演約翰腦內的聲音，試圖控制約翰的行動以達到各自的目標！"
+image: images/post-feature/everyone-is-john_200.jpg
 tags: 
 - 英文
 - 一頁規則

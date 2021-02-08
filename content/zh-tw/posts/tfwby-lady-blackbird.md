@@ -2,6 +2,7 @@
 title: "蒼空彼端的故事第一章：黑鳥小姐 (Lady Blackbird)"
 date: 2018-01-09T01:21:00+08:00
 description: "輕型敘事向系統，蒼空彼端的故事系列第一作。描述黑鳥小姐為追求真愛，與走私船隊在星海間冒險的故事。"
+image: images/post-feature/tfwby-lady-blackbird_200.jpg
 tags: 
 - 英文
 - 輕系統

@@ -2,6 +2,7 @@
 title: "概要魔法少女 (あらすじ魔法少女)"
 date: 2018-09-05T00:00:00+08:00
 description: "以SRS架構為基礎的日系系統，描述著在即將與魔王進行最終決戰之前，失去了至今為止記憶的魔法少女，為了打倒魔王，尋找記憶的故事。"
+image: images/post-feature/arasuji-mahoushoujo_200.jpg
 tags: 
 - 日文
 - SRS

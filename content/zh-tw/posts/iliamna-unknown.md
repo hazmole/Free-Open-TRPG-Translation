@@ -2,6 +2,7 @@
 title: "伊利亞姆納之謎 (Iliamna Unknown)"
 date: 2018-01-31T01:37:00+08:00
 description: "派對式共創同樂系統，在關鍵字驅動的規則下共同譜寫於阿拉斯加，靈界、伊利亞姆納湖怪、以及種種事物糾纏紛擾所產生的怪異。"
+image: images/post-feature/iliamna-unknown_200.jpg
 tags: 
 - 英文
 - 一頁規則

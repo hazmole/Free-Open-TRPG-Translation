@@ -2,6 +2,7 @@
 title: "冒險骷髏怪 (Adventure Skeletons)"
 date: 2018-11-04T00:00:00+08:00
 description: "Grant Howitt的一頁RPG系列，扮演一群厭倦於看守地牢的骷髏怪，到「人類地城」（也就是村莊）展開各式各樣的冒險。"
+image: images/post-feature/gw1-adventure-skeletons_200.jpg
 tags: 
 - 英文
 - 一頁規則

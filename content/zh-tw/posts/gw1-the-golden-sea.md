@@ -2,6 +2,7 @@
 title: "黃金之海 (The Golden Sea)"
 date: 2018-10-30T00:00:00+08:00
 description: "Grant Howitt的一頁RPG系列，玩家扮演著受雇於商貿組織皇冠集團的人們，在一望無際的廣袤沙漠上冒險。"
+image: images/post-feature/gw1-the-golden-sea_200.jpg
 tags: 
 - 英文
 - 一頁規則

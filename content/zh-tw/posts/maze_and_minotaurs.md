@@ -2,6 +2,7 @@
 title: "牛頭人與迷宮 (Maze & Minotaurs)"
 date: 2018-04-15T00:00:00+08:00
 description: "復古式奇幻TRPG，如果當初龍與地下城參考的是希臘神話？這就是答案！"
+image: images/post-feature/maze_and_minotaurs_200.jpg
 tags: 
 - 英文
 - 商業出版規則

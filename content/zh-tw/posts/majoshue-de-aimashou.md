@@ -2,6 +2,7 @@
 title: "歡迎來到魔女聚會 (魔女集会で会いましょう)"
 date: 2018-05-26T00:00:00+08:00
 description: "仿骰子話劇架構的日系系統，順應魔女聚會潮流誕生的趣味系統，體驗魔女與跟班的故事。"
+image: images/post-feature/majoshue-de-aimashou_200.jpg
 tags: 
 - 日文
 - 仿骰子話劇

@@ -2,6 +2,7 @@
 title: "反差歐吉桑TRPG (ギャップおじさん TRPG)"
 date: 2018-11-04T00:00:00+08:00
 description: "仿骰子話劇架構的日系系統，玩家將扮演隱含著強大闇之力的歐吉桑，為了維護表面上那平靜的平凡生活而與黑暗奮鬥。"
+image: images/post-feature/gyappu-ojisan_200.jpg
 tags: 
 - 日文
 - 仿骰子話劇

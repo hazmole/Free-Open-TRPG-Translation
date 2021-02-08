@@ -2,6 +2,7 @@
 title: "蒼空彼端的故事第三章：史柯洛克領主 (Lord Scurlock)"
 date: 2018-04-03T20:59:00+08:00
 description: "輕型敘事向系統，蒼空彼端的故事系列第三作。描述史柯洛特領主死後，環繞在他遺產所發生的債務、感情糾葛、與謎題。"
+image: images/post-feature/tfwby-lord-scurlock_200.jpg
 tags: 
 - 英文
 - 輕系統
