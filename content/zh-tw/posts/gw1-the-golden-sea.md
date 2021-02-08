@@ -1,0 +1,19 @@
+---
+title: "黃金之海 (The Golden Sea)"
+date: 2018-10-30T00:00:00+08:00
+description: "Grant Howitt的一頁RPG系列，玩家扮演著受雇於商貿組織皇冠集團的人們，在一望無際的廣袤沙漠上冒險。"
+tags: 
+- 英文
+- 一頁規則
+- G.W.一頁RPG系列
+- 
+---
+{{< boxmd >}}
+**【作者】** Grant Howitt.
+**【譯者】** Hazmole
+**【翻譯授權】** CC BY-NC-SA 3.0 & [作者授權](https://i.imgur.com/IIwihdK.png)
+**【連結】**
+　．[原作網站 (lookrobot.co.uk/games)](http://lookrobot.co.uk/games)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/1bZZbLJ2eV54-ReLR2yxUpeX4s4h4H0ZQ/view)
+{{< /boxmd >}}
+
