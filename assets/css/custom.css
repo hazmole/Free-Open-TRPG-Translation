@@ -1,5 +1,4 @@
-.site-header__title {
-    line-height: 1.1;
-    font-weight: 550;
-    font-family: montserrat,sans-serif;
+.theme__light .site-header__title--shadow {
+    color: #607d8b;
+    /* text-shadow: 1.2px 1.2px 0 #607d8b, 2.4px 2.4px 0 #4c4c4c, 3.6px 3.6px 0 #565656, 4.8px 4.8px 0 #616161; */
 }
