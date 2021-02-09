@@ -7,6 +7,7 @@ tags:
 - 英文
 - 粉絲二創
 - 魔法奇幻
+- 彩虹小馬
 ---
 {{< boxmd >}}
 **【作者】** James Weimer et al.
