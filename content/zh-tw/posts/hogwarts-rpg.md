@@ -1,7 +1,7 @@
 ---
 title: "霍格華茲RPG (Hogwarts RPG)"
 date: 2021-02-06T00:00:00+08:00
-description: "PbtA框架的奇幻地城冒險遊戲。在輕系統的架構下自由的扮演，一起經歷並創造緊張刺激的故事吧。"
+description: "採用PbtA框架，哈利波特主題的粉絲創作TRPG，在迷人的霍格華茲譜寫出屬於你們自己的精彩冒險吧！"
 image: images/post-feature/hogwarts-rpg_200.jpg
 tags: 
 - 英文
