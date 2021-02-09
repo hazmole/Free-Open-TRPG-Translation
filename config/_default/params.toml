@@ -1,7 +1,7 @@
-logoText = "免費開源TRPG中文化團隊"
+logoText = "免費開源 TRPG 中文化團隊"
 logoType = "short" # long, short
-description = "您最安心信賴的中文化TRPG規則網站"
-custom_css = []
+description = "您最安心信賴的中文化 TRPG 規則網站"
+custom_css = ["css/custom.css"]
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = "images/whoami/avatar.png"

@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - 免費開源TRPG中文化團隊
+      - 免費開源 TRPG 中文化團隊
     subtitle:
-      - 您最安心信賴的中文化規則網站
+      - 您最安心信賴的中文化 TRPG 規則網站
     titleColor: 
     titleShadow: true
     titleFontSize: 44
