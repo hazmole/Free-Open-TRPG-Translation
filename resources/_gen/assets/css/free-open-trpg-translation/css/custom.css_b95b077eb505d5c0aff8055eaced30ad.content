@@ -1,1 +1,1 @@
-.site-header__title{line-height:1.1;font-weight:550;font-family:montserrat,sans-serif}
+.theme__light .site-header__title--shadow{color:#607d8b}
