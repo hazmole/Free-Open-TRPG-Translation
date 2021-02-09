@@ -4,7 +4,7 @@ description = "您最安心信賴的中文化TRPG規則網站"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
-meta_image = ""
+meta_image = "images/whoami/avatar.png"
 themecolor = "light"
 
 themeOptions = ["light", "hacker", "solarized", "kimbie"]
@@ -93,7 +93,7 @@ enableLangChange = false
 enableThemeChange = false
 
 # service
-googleTagManager = "" # GTM-XXXXXX
+googleTagManager = "GTM-KNBXC8B" # GTM-XXXXXX
 baiduAnalytics = ""
 enableBusuanzi = false
 busuanziSiteUV = true
