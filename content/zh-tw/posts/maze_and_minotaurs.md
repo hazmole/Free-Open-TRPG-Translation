@@ -19,4 +19,4 @@ tags:
 　．[玩家手冊-中文版 (pdf)](https://drive.google.com/file/d/1H1WCm5N2CDHbxx__5kwL4OOsLK9BxTRN/view)
 {{< /boxmd >}}
 
-<img src='http://mazesandminotaurs.free.fr/MM1.jpg'>
+<img src='https://geekandsundry.com/wp-content/uploads/2017/02/GS-header1.jpg'>

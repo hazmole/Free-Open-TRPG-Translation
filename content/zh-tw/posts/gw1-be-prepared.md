@@ -2,7 +2,7 @@
 title: "準備 (Be Prepared)"
 date: 2020-02-22T00:00:00+08:00
 description: "Grant Howitt的一頁RPG系列，體驗在童軍露營中發生的恐怖故事，你們能夠阻止那蠢蠢欲動的「恐怖」嗎？"
-image: images/post-feature/nodata.jpg
+image: images/post-feature/gw1-be-prepared_200.jpg
 tags: 
 - 英文
 - 一頁規則
@@ -18,3 +18,9 @@ tags:
 　．[中文規則 (pdf)](https://drive.google.com/file/d/1xWS-f3Pvj1q2_uobzO9pw2sw0WeqXLf6/view)
 {{< /boxmd >}}
 
+時代是1994年，你是一名童子軍。正參與銀行假期在週末為期三天的露營旅遊。
+
+但那裡有「恐怖」在等待著，潛伏在樹木的陰影中。
+「恐怖」很古老，散發著鹹臭味，滿懷恨意；它是午夜無盡的海洋，它是毫無生機的荒野。它蜷曲的觸根能鑽入體內轉化人們，使其侵害他人。
+
+它想吞噬你。在它這麼做之前，你能阻止它嗎？

@@ -14,7 +14,11 @@ tags:
 **【翻譯授權】** [作者授權](https://images.plurk.com/cSM71tkBLfgdDQHUvLbQw.png)
 **【連結】**
 　．[原作網站 (booth.pm/ja/items/1329062)](https://booth.pm/ja/items/1329062)
-　．[中文規則 (pdf)](https://www.plurk.com/p/nao1os)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/1fSETOTbB-XjOCBmv6RNGwLU58wPCSRRh/view)
 {{< /boxmd >}}
 
+「將時間緩下！汝美麗至極」
+
+你們細心灌溉、栽培著美麗的妖精花，只為了在她最美麗的一刻凍結，獻給王室，得到榮譽
+──妖精花育成TRPG戀華之不凋花──
 

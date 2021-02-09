@@ -2,7 +2,7 @@
 title: "傲慢與偏見與龍騎兵 (Pride and EXTREME PREJUDICE)"
 date: 2020-04-01T00:00:00+08:00
 description: "Grant Howitt的一頁RPG系列，扮演齊心協力操縱巨大機器人「龍騎兵」的英國淑女四姊妹，在保家衛國的同時，想辦法為自己找個好丈夫吧！"
-image: images/post-feature/nodata.jpg
+image: images/post-feature/gw1-pride-and-extreme-prejudice_200.jpg
 tags: 
 - 英文
 - 一頁規則
