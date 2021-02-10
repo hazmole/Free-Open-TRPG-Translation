@@ -16,7 +16,7 @@ tags:
 **【連結】**
 　．[原作網站 dbb-8.itch.io/hogwarts-rpg](https://dbb-8.itch.io/hogwarts-rpg)
 　．[中文規則網站 (SRD)](https://hazmole.github.io/hogwarts-rpg-release/)
-
+　．[線上自動角色卡 (by 阿羊)](https://docs.google.com/spreadsheets/d/1BfsBwAwNvgE0K5zzGfFAYZ9Hi8REGCVvjdXCd964EI4)
 {{< /boxmd >}}
 
 歡迎來到霍格華茲！在這裡，你們將共同編織出一個充滿神秘、友情、危險、和魔法的精彩故事。

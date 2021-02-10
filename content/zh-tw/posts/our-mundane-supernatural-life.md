@@ -17,6 +17,7 @@ tags:
 **【連結】**
 　．[原作網站 (storybrewersroleplaying.com)](https://storybrewersroleplaying.com/our-mundane-supernatural-life/)
 　．[中文規則 (pdf)](https://drive.google.com/file/d/1qov8_8lG8VIZ70H2g6bdTsdVIlKUkWhm/view)
+　．[線上自動角色卡 (by 阿羊)](https://docs.google.com/spreadsheets/d/1V3Hqu3uoypr7lB3ff3wgbjsA_PvXs_ragph8R9t1qyE)
 {{< /boxmd >}}
 
 當有什麼使你身置於周遭人群而格格不入時，你會如何充分地利用每一天？
