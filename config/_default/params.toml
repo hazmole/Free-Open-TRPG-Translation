@@ -7,7 +7,7 @@ useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = "images/whoami/avatar.png"
 themecolor = "light"
 
-themeOptions = ["light", "hacker", "solarized", "kimbie"]
+themeOptions = ["light"]
 
 notAllowedTypesInHome = ["about", "archive"]
 notAllowedTypesInHomeSidebar = ["about", "archive"]
