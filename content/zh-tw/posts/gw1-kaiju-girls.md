@@ -15,7 +15,7 @@ tags:
 **【譯者】** 摸摸
 **【翻譯授權】** CC BY-NC-SA 3.0 & [作者授權](https://i.imgur.com/IIwihdK.png)
 **【連結】**
-　．[原作網站 (lookrobot.co.uk/games)](http://lookrobot.co.uk/games)
+　．[作者推特](https://twitter.com/gshowitt/status/1308406849658642445)
 　．[中文規則 (jpg)](https://cdn.discordapp.com/attachments/710742322719227914/808604586365288468/236aaef258ff4214.jpg)
 {{< /boxmd >}}
 
