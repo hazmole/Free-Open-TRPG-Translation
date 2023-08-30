@@ -1,1 +1,98 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>泛用 on 免費開源TRPG中文化團隊</title><link>https://hazmole.github.io/Free-Open-TRPG-Translation/tags/%E6%B3%9B%E7%94%A8/</link><description>Recent content in 泛用 on 免費開源TRPG中文化團隊</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><managingEditor>freeandopentrpg@gmail.com</managingEditor><webMaster>freeandopentrpg@gmail.com</webMaster><copyright>&amp;copy;{year}, All Rights Reserved</copyright><lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://hazmole.github.io/Free-Open-TRPG-Translation/tags/%E6%B3%9B%E7%94%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>FATE濃縮版</title><link>https://hazmole.github.io/Free-Open-TRPG-Translation/posts/fate-condensed/</link><pubDate>Mon, 15 Aug 2022 00:00:00 +0800</pubDate><author>freeandopentrpg@gmail.com</author><atom:modified>Mon, 15 Aug 2022 00:00:00 +0800</atom:modified><guid>https://hazmole.github.io/Free-Open-TRPG-Translation/posts/fate-condensed/</guid><description>【出版商】 Evil Hat Productions 【譯者】 洪偉 【翻譯授權】 Open License 【連結】 ．原作網站 Evil Hat Productions ．中文規則網站 命運濃縮版是命運核心系統的緊湊與獨立的版本，以清晰和便於參</description><media:content url="https://hazmole.github.io/Free-Open-TRPG-Translationimages/post-feature/fate-condensed_200.jpg" medium="image"><media:title type="html">featured image</media:title></media:content><category>英文</category><category>商業出版規則</category><category>泛用</category></item><item><title>24XX SRD</title><link>https://hazmole.github.io/Free-Open-TRPG-Translation/posts/24xx/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0800</pubDate><author>freeandopentrpg@gmail.com</author><atom:modified>Sun, 06 Mar 2022 00:00:00 +0800</atom:modified><guid>https://hazmole.github.io/Free-Open-TRPG-Translation/posts/24xx/</guid><description>【出版商】 Jason Tocci 【譯者】 Tomkd 【翻譯授權】 CC BY 4.0 【連結】 ．原作網站 itch.io ．中文規則 (pdf) 24XX是一款著重描述和敘事高於詳細規則的遊戲系統，它的檢定機制採</description><media:content url="https://hazmole.github.io/Free-Open-TRPG-Translationimages/post-feature/24xx_200.jpg" medium="image"><media:title type="html">featured image</media:title></media:content><category>英文</category><category>輕規則</category><category>泛用</category><category>賽博龐克</category><category>科幻</category></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>泛用 on 免費開源TRPG中文化團隊</title>
+    <link>https://hazmole.github.io/Free-Open-TRPG-Translation/tags/%E6%B3%9B%E7%94%A8/</link>
+    <description>Recent content in 泛用 on 免費開源TRPG中文化團隊</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>freeandopentrpg@gmail.com</managingEditor>
+    <webMaster>freeandopentrpg@gmail.com</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://hazmole.github.io/Free-Open-TRPG-Translation/tags/%E6%B3%9B%E7%94%A8/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>FATE濃縮版</title>
+        <link>https://hazmole.github.io/Free-Open-TRPG-Translation/posts/fate-condensed/</link>
+        <pubDate>Mon, 15 Aug 2022 00:00:00 +0800</pubDate>
+        <author>freeandopentrpg@gmail.com</author>
+        <atom:modified>Mon, 15 Aug 2022 00:00:00 +0800</atom:modified>
+        <guid>https://hazmole.github.io/Free-Open-TRPG-Translation/posts/fate-condensed/</guid>
+        <description>【出版商】 Evil Hat Productions 【譯者】 洪偉 【翻譯授權】 Open License 【連結】 ．原作網站 Evil Hat Productions ．中文規則網站 命運濃縮版是命運核心系統的緊湊與獨立的版本，以清晰和便於參</description>
+        
+        
+        <media:content url="https://hazmole.github.io/Free-Open-TRPG-Translationimages/post-feature/fate-condensed_200.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>英文</category>
+            
+          
+            
+              <category>商業出版規則</category>
+            
+          
+            
+              <category>泛用</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>24XX SRD</title>
+        <link>https://hazmole.github.io/Free-Open-TRPG-Translation/posts/24xx/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0800</pubDate>
+        <author>freeandopentrpg@gmail.com</author>
+        <atom:modified>Sun, 06 Mar 2022 00:00:00 +0800</atom:modified>
+        <guid>https://hazmole.github.io/Free-Open-TRPG-Translation/posts/24xx/</guid>
+        <description>【出版商】 Jason Tocci 【譯者】 Tomkd 【翻譯授權】 CC BY 4.0 【連結】 ．原作網站 itch.io ．中文規則 (pdf) 24XX是一款著重描述和敘事高於詳細規則的遊戲系統，它的檢定機制採</description>
+        
+        
+        <media:content url="https://hazmole.github.io/Free-Open-TRPG-Translationimages/post-feature/24xx_200.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>英文</category>
+            
+          
+            
+              <category>輕規則</category>
+            
+          
+            
+              <category>泛用</category>
+            
+          
+            
+              <category>賽博龐克</category>
+            
+          
+            
+              <category>科幻</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

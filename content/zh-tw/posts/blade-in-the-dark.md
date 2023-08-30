@@ -17,7 +17,7 @@ tags:
 **【翻譯授權】** CC BY 3.0
 **【連結】**
 　．[原作網站 bladesinthedark.com](http://bladesinthedark.com)
-　．[中文規則網站 (SRD)](https://wayneh.tw/BitD)
+　．[中文規則網站 (SRD)](https://bitd.wayneh.tw)
 
 {{< /boxmd >}}
 

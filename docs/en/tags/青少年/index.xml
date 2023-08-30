@@ -1,1 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>青少年 on 免費開源TRPG中文化團隊</title><link>https://hazmole.github.io/Free-Open-TRPG-Translation/en/tags/%E9%9D%92%E5%B0%91%E5%B9%B4/</link><description>Recent content in 青少年 on 免費開源TRPG中文化團隊</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>freeandopentrpg@gmail.com</managingEditor><webMaster>freeandopentrpg@gmail.com</webMaster><copyright>&amp;copy;{year}, All Rights Reserved</copyright><lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://hazmole.github.io/Free-Open-TRPG-Translation/en/tags/%E9%9D%92%E5%B0%91%E5%B9%B4/index.xml" rel="self" type="application/rss+xml"/><item><title>蒙面少俠 (Masks)</title><link>https://hazmole.github.io/Free-Open-TRPG-Translation/en/zh-tw/posts/masks/</link><pubDate>Fri, 19 Aug 2022 00:00:00 +0800</pubDate><author>freeandopentrpg@gmail.com</author><atom:modified>Fri, 19 Aug 2022 00:00:00 +0800</atom:modified><guid>https://hazmole.github.io/Free-Open-TRPG-Translation/en/zh-tw/posts/masks/</guid><description>【出版商】 Magpie Games 【譯者】 Hazmole、老貓 【翻譯授權】 CC BY 4.0 【連結】 ．原作網站 Magpie ．中文規則網站 你是否曾經想像過一拳打穿牆壁會是什麼感覺？從你</description><media:content url="https://hazmole.github.io/Free-Open-TRPG-Translationimages/post-feature/masks_200.jpg" medium="image"><media:title type="html">featured image</media:title></media:content><category>英文</category><category>商業出版規則</category><category>pbtA</category><category>超級英雄</category><category>青少年</category></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>青少年 on 免費開源TRPG中文化團隊</title>
+    <link>https://hazmole.github.io/Free-Open-TRPG-Translation/en/tags/%E9%9D%92%E5%B0%91%E5%B9%B4/</link>
+    <description>Recent content in 青少年 on 免費開源TRPG中文化團隊</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>freeandopentrpg@gmail.com</managingEditor>
+    <webMaster>freeandopentrpg@gmail.com</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 19 Aug 2022 00:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://hazmole.github.io/Free-Open-TRPG-Translation/en/tags/%E9%9D%92%E5%B0%91%E5%B9%B4/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>蒙面少俠 (Masks)</title>
+        <link>https://hazmole.github.io/Free-Open-TRPG-Translation/en/zh-tw/posts/masks/</link>
+        <pubDate>Fri, 19 Aug 2022 00:00:00 +0800</pubDate>
+        <author>freeandopentrpg@gmail.com</author>
+        <atom:modified>Fri, 19 Aug 2022 00:00:00 +0800</atom:modified>
+        <guid>https://hazmole.github.io/Free-Open-TRPG-Translation/en/zh-tw/posts/masks/</guid>
+        <description>【出版商】 Magpie Games 【譯者】 Hazmole、老貓 【翻譯授權】 CC BY 4.0 【連結】 ．原作網站 Magpie ．中文規則網站 你是否曾經想像過一拳打穿牆壁會是什麼感覺？從你</description>
+        
+        
+        <media:content url="https://hazmole.github.io/Free-Open-TRPG-Translationimages/post-feature/masks_200.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>英文</category>
+            
+          
+            
+              <category>商業出版規則</category>
+            
+          
+            
+              <category>pbtA</category>
+            
+          
+            
+              <category>超級英雄</category>
+            
+          
+            
+              <category>青少年</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

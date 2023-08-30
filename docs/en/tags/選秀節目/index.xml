@@ -1,1 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>選秀節目 on 免費開源TRPG中文化團隊</title><link>https://hazmole.github.io/Free-Open-TRPG-Translation/en/tags/%E9%81%B8%E7%A7%80%E7%AF%80%E7%9B%AE/</link><description>Recent content in 選秀節目 on 免費開源TRPG中文化團隊</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>freeandopentrpg@gmail.com</managingEditor><webMaster>freeandopentrpg@gmail.com</webMaster><copyright>&amp;copy;{year}, All Rights Reserved</copyright><lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://hazmole.github.io/Free-Open-TRPG-Translation/en/tags/%E9%81%B8%E7%A7%80%E7%AF%80%E7%9B%AE/index.xml" rel="self" type="application/rss+xml"/><item><title>大爆炸明星 (Big Bang Superstars)</title><link>https://hazmole.github.io/Free-Open-TRPG-Translation/en/zh-tw/posts/gw1-big-bang-superstars/</link><pubDate>Mon, 02 Aug 2021 00:00:00 +0800</pubDate><author>freeandopentrpg@gmail.com</author><atom:modified>Mon, 02 Aug 2021 00:00:00 +0800</atom:modified><guid>https://hazmole.github.io/Free-Open-TRPG-Translation/en/zh-tw/posts/gw1-big-bang-superstars/</guid><description>【作者】 Grant Howitt. 【譯者】 摸摸ლ(́◉◞౪◟◉‵ლ) 【翻譯授權】 CC BY-NC-SA 3.0 &amp;amp; 作者授權 【連結】 ．原作網站 (lookrobot.co.uk/games) ．中文規則 (jpg) 在宇宙的盡頭，七個互相憎恨又強大的</description><media:content url="https://hazmole.github.io/Free-Open-TRPG-Translationimages/post-feature/gw1-big-bang-superstars_200.jpg" medium="image"><media:title type="html">featured image</media:title></media:content><category>英文</category><category>一頁規則</category><category>G.W.一頁RPG系列</category><category>歡樂</category><category>選秀節目</category></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>選秀節目 on 免費開源TRPG中文化團隊</title>
+    <link>https://hazmole.github.io/Free-Open-TRPG-Translation/en/tags/%E9%81%B8%E7%A7%80%E7%AF%80%E7%9B%AE/</link>
+    <description>Recent content in 選秀節目 on 免費開源TRPG中文化團隊</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>freeandopentrpg@gmail.com</managingEditor>
+    <webMaster>freeandopentrpg@gmail.com</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://hazmole.github.io/Free-Open-TRPG-Translation/en/tags/%E9%81%B8%E7%A7%80%E7%AF%80%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>大爆炸明星 (Big Bang Superstars)</title>
+        <link>https://hazmole.github.io/Free-Open-TRPG-Translation/en/zh-tw/posts/gw1-big-bang-superstars/</link>
+        <pubDate>Mon, 02 Aug 2021 00:00:00 +0800</pubDate>
+        <author>freeandopentrpg@gmail.com</author>
+        <atom:modified>Mon, 02 Aug 2021 00:00:00 +0800</atom:modified>
+        <guid>https://hazmole.github.io/Free-Open-TRPG-Translation/en/zh-tw/posts/gw1-big-bang-superstars/</guid>
+        <description>【作者】 Grant Howitt. 【譯者】 摸摸ლ(́◉◞౪◟◉‵ლ) 【翻譯授權】 CC BY-NC-SA 3.0 &amp;amp; 作者授權 【連結】 ．原作網站 (lookrobot.co.uk/games) ．中文規則 (jpg) 在宇宙的盡頭，七個互相憎恨又強大的</description>
+        
+        
+        <media:content url="https://hazmole.github.io/Free-Open-TRPG-Translationimages/post-feature/gw1-big-bang-superstars_200.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>英文</category>
+            
+          
+            
+              <category>一頁規則</category>
+            
+          
+            
+              <category>G.W.一頁RPG系列</category>
+            
+          
+            
+              <category>歡樂</category>
+            
+          
+            
+              <category>選秀節目</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
