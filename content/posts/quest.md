@@ -1,6 +1,6 @@
 ---
 title: "奇幻探索物語 (Quest)"
-date: 2024-01-29T14:07:27+08:00
+date: 2024-01-30T14:07:27+08:00
 description: "輕便簡單的傳統奇幻冒險系統，徜徉在這充斥各種魔法與危險的世界盡情冒險，你可以成為任何你想成為的人物！適合新手！"
 image: images/post-feature/quest_200.jpg
 tags:
