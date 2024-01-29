@@ -1,5 +1,5 @@
 ---
-title: "FATE濃縮版"
+title: "FATE濃縮版 (Fate Condensed)"
 date: 2022-08-15T00:00:00+08:00
 description: "命運濃縮版是命運核心系統的緊湊與獨立的版本"
 image: images/post-feature/fate-condensed_200.jpg
