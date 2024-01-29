@@ -1,7 +1,7 @@
 baseURL = "https://hazmole.github.io/Free-Open-TRPG-Translation"
 title = "免費開源TRPG中文化團隊"
 theme = "zzo"
-publishDir = 'docs'
+publishDir = 'public'
 
 defaultContentLanguage = "zh-tw"
 defaultContentLanguageInSubdir = false
