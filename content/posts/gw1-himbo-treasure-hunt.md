@@ -15,7 +15,7 @@ tags:
 **【翻譯授權】** CC BY-NC-SA 3.0 & [作者授權](https://i.imgur.com/IIwihdK.png)
 **【連結】**
 　．[作者推特](https://twitter.com/gshowitt/status/1432647036998934539)
-　．[中文規則 (jpg)](https://cdn.discordapp.com/attachments/710742322719227914/893182492205527040/a4fb4289cb13f404.jpg)
+　．[中文規則 (jpg)](/Free-Open-TRPG-Translation/gallery/ruledoc/gw1-himbo-treasure-hunt.jpg)
 {{< /boxmd >}}
 
 你們是一群純天然、無用藥的肌肉人士。地方的健身房要被拆除了！而且要被重建成某種高樓大廈。

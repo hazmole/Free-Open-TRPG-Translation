@@ -16,7 +16,7 @@ tags:
 **【翻譯授權】** CC BY-NC-SA 3.0 & [作者授權](https://i.imgur.com/IIwihdK.png)
 **【連結】**
 　．[原作網站 (lookrobot.co.uk/games)](http://lookrobot.co.uk/games)
-　．[中文規則 (jpg)](https://cdn.discordapp.com/attachments/710742322719227914/870963147492716554/c19e9fc7c14611e2.jpg)
+　．[中文規則 (jpg)](/Free-Open-TRPG-Translation/gallery/ruledoc/gw1-big-bang-superstars.jpg)
 {{< /boxmd >}}
 
 在宇宙的盡頭，七個互相憎恨又強大的魔導士正要來到一場百萬年一度的競賽，贏家將加冕成為宇宙之王，並將宇宙變成他喜歡的模樣。

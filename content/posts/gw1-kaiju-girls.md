@@ -16,7 +16,7 @@ tags:
 **【翻譯授權】** CC BY-NC-SA 3.0 & [作者授權](https://i.imgur.com/IIwihdK.png)
 **【連結】**
 　．[作者推特](https://twitter.com/gshowitt/status/1308406849658642445)
-　．[中文規則 (jpg)](https://cdn.discordapp.com/attachments/710742322719227914/808604586365288468/236aaef258ff4214.jpg)
+　．[中文規則 (jpg)](/Free-Open-TRPG-Translation/gallery/ruledoc/gw1-kaiju-girls.jpg)
 {{< /boxmd >}}
 
 你是一個要應付平凡煩惱的少女──如何在學校拿到好成績、大人對你的期待、戀愛然後失戀、還有跟上朋友的最新八卦。
