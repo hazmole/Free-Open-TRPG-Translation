@@ -16,7 +16,7 @@ tags:
 **【翻譯授權】** CC BY-NC-SA 3.0 & [作者授權](https://i.imgur.com/IIwihdK.png)
 **【連結】**
 　．[原作網站 (lookrobot.co.uk/games)](http://lookrobot.co.uk/games)
-　．[中文規則 (pdf)](https://drive.google.com/file/d/1znuW9eULoYHhgq0_1LqOxIec7xvTj3Ju/view)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/13TK-4fYDyCk0ABJB0Gj6YeMSS07N-VLT/view?usp=sharing)
 {{< /boxmd >}}
 
 現在是 2017 年度的蜂蜜嘉年華，你們即將要展開這個世界上最教人驚嘆的一場搶劫。

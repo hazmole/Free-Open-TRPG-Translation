@@ -14,6 +14,7 @@ tags:
 **【翻譯授權】** [作者授權](https://imgur.com/ZUSGuCK)
 **【連結】**
 　．[原作網站 tabakoya-3.jimdofree.com](https://tabakoya-3.jimdofree.com)
-　．[中文規則 (pdf)](https://drive.google.com/file/d/10bwhXfbXnKg_XNTFmsVy491JJQHe45wJ/view)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/1HeGeeySokjhVkSJCpyBRJQwskgkg36CO/view?usp=sharing)
+　．[資源集 (zip)](https://drive.google.com/file/d/1Tt-tpJoAI55cj0yk58-pPsLtqAuR98f9/view?usp=drive_link)
 {{< /boxmd >}}
 

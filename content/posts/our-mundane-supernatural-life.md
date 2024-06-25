@@ -16,7 +16,7 @@ tags:
 **【翻譯授權】** [作者授權](https://images.plurk.com/3piII14KhRmluWzxnD2cjy.jpg)
 **【連結】**
 　．[原作網站 (storybrewersroleplaying.com)](https://storybrewersroleplaying.com/our-mundane-supernatural-life/)
-　．[中文規則 (pdf)](https://drive.google.com/file/d/1qov8_8lG8VIZ70H2g6bdTsdVIlKUkWhm/view)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/1On-WOegiXEAgyU2xoaVkOC5EjnIGA5aO/view?usp=sharing)
 　．[線上自動角色卡 (by 阿羊)](https://docs.google.com/spreadsheets/d/1V3Hqu3uoypr7lB3ff3wgbjsA_PvXs_ragph8R9t1qyE)
 {{< /boxmd >}}
 

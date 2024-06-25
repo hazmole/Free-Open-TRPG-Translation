@@ -16,7 +16,7 @@ tags:
 **【翻譯授權】** CC BY-NC-SA 3.0 & [作者授權](https://i.imgur.com/IIwihdK.png)
 **【連結】**
 　．[原作網站 (lookrobot.co.uk/games)](http://lookrobot.co.uk/games)
-　．[中文規則 (pdf)](https://drive.google.com/file/d/1AiIFz594ZRMYD1kyZhUpdx6Uhst_du8P/view)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/1A-3bjRyN_ul4sN4zYI7_JUvfjoaXQftL/view?usp=sharing)
 {{< /boxmd >}}
 
 歡迎來到《磁鐵手博士》！在這場遊戲中，你們將扮演超級英雄阻止磁鐵手博士在聖誕夜發射他在月球上的輻射火箭城堡到白宮以摧毀地球！耶！因為管他的，就是這樣啦！

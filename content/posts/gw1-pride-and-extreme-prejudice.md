@@ -15,7 +15,7 @@ tags:
 **【翻譯授權】** CC BY-NC-SA 3.0 & [作者授權](https://i.imgur.com/IIwihdK.png)
 **【連結】**
 　．[原作網站 (lookrobot.co.uk/games)](http://lookrobot.co.uk/games)
-　．[中文規則 (pdf)](https://drive.google.com/file/d/19GpSEWMtVFRn1IlI5YT9NlEjd8ybp8lD/view)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/1dnSu_9fP-gYIse1HlUn86unwVv6hrsP7/view?usp=sharing)
 {{< /boxmd >}}
 
 妳是一位正值適婚年齡的女青年，就跟其他信譽優良的女士一樣,妳也接受過操縱龍騎兵(一種大型戰爭器械)的專業訓練。

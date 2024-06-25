@@ -17,7 +17,7 @@ tags:
 **【翻譯授權】** CC BY-NC-SA 3.0 & [作者授權](https://i.imgur.com/IIwihdK.png)
 **【連結】**
 　．[原作網站 (lookrobot.co.uk/games)](http://lookrobot.co.uk/games)
-　．[中文規則 (pdf)](https://drive.google.com/file/d/1HQXm9WjeV3d2uihy8J6Y054Ru6bo2lnN/view)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/1wa9nUzQYh1jdlmM71zavEEbQ5JfJoIOh/view?usp=sharing)
 {{< /boxmd >}}
 
 你是一名美妙的宇宙海盜。

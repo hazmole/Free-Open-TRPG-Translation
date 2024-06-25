@@ -15,7 +15,7 @@ tags:
 **【連結】**
 　．[原作網站 (ihp.sakura.ne.jp/kemurikusatrpg)](http://ihp.sakura.ne.jp/kemurikusatrpg)
 　．[中文規則網站](https://sites.google.com/site/kemurikusatrpg)
-　．[中文規則 (pdf)](https://drive.google.com/file/d/1atwQoqFz74BDBAyVVw7eny9XAqmjE0gj/view)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/1Ol9ssPuwRyA9oEq7Hg9ABbT7Z0jVPlty/view?usp=sharing)
 {{< /boxmd >}}
 
 <img src="https://irodorich.com/wp-content/uploads/2019/01/Dwt5-QwVAAI7zoe.jpg" width="60%">

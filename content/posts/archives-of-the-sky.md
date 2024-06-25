@@ -16,7 +16,7 @@ tags:
 **【翻譯授權】** [作者授權](https://i.imgur.com/Jz2Wdxh.png)
 **【連結】**
 　．[原作網站 archivesofthesky.textories.com](http://archivesofthesky.textories.com)
-　．[中文規則 (pdf)](https://drive.google.com/file/d/1GQjgv6hdg5uiQKgEnHMgnPEQZnVclFk-/view)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/1KHIFxyowI3ZyyvtfU1y6ipXPniu4SUqC/view?usp=sharing)
 {{< /boxmd >}}
 
 距今一百萬年後，

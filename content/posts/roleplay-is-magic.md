@@ -15,7 +15,7 @@ tags:
 **【翻譯授權】** [作者授權](https://i.imgur.com/3tyXgTr.png)
 **【連結】**
 　．[原作網站 www.roleplayingismagic.com](http://www.roleplayingismagic.com)
-　．[中文規則 (pdf)](https://drive.google.com/file/d/1sW-CrTpRcOlZZ4E2lMHPveNk9WXJF4DX/view)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/1YkdxUnW-WohIxf-GMMAXUEPjlegbHeeW/view?usp=sharing)
 {{< /boxmd >}}
 
 <img src='https://sites.google.com/site/roleplayingismagichome/_/rsrc/1399561684058/0-0/Front%20Cover2.png' width="60%">

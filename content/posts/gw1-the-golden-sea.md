@@ -15,6 +15,6 @@ tags:
 **【翻譯授權】** CC BY-NC-SA 3.0 & [作者授權](https://i.imgur.com/IIwihdK.png)
 **【連結】**
 　．[原作網站 (lookrobot.co.uk/games)](http://lookrobot.co.uk/games)
-　．[中文規則 (pdf)](https://drive.google.com/file/d/1bZZbLJ2eV54-ReLR2yxUpeX4s4h4H0ZQ/view)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/1XYhh_chf0etNdF4JbM1Lm-vYFju3K_6y/view?usp=sharing)
 {{< /boxmd >}}
 
