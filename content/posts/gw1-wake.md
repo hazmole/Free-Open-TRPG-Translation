@@ -15,7 +15,7 @@ tags:
 **【翻譯授權】** CC BY-NC-SA 3.0 & [作者授權](https://i.imgur.com/IIwihdK.png)
 **【連結】**
 　．[原作網站 (lookrobot.co.uk/games)](http://lookrobot.co.uk/games)
-　．[中文規則 (pdf)](https://drive.google.com/file/d/1yxa6xlRMsxW_wW3haWY1iyyd98R3SCUi/view?usp=drive_link)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/1o5-bPh2WLgJ_e_K4UsrGhA-AthZ8OG6o/view?usp=sharing)
 {{< /boxmd >}}
 
 歡迎來到「病室」：一條如兔子洞般複雜、拼湊而成的醫院走廊，有著日光燈泡閃爍與塵土飛揚的等候室，以及窗戶外映照著的無邊際、令人窒息灰黯景色。
