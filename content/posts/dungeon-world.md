@@ -16,7 +16,7 @@ tags:
 **【連結】**
 　．[原作網站 dungeon-world.com](https://dungeon-world.com)
 　．[中文規則網站 (SRD)](https://hazmole.github.io/Dungeon-World-HTML-SRD-release)
-　．[遊玩書 (pdf)](https://drive.google.com/file/d/1wtc4XlVjhM0uZEG6KwUfRo3Eyle0FPCN/view)
+　．[遊玩書 (pdf)](https://drive.google.com/file/d/1Eq-3s5Urj_0_lssydsUAkmAvGaNP60ho/view?usp=sharing)
 　．[線上角色卡 (試算表)](https://docs.google.com/spreadsheets/d/1notFC2cmqbCQNN6zQlIMFHH1y-Ww-1KBwdYwUWgLmA0/edit?usp=sharing)
 
 {{< /boxmd >}}
