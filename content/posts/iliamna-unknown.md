@@ -15,7 +15,7 @@ tags:
 **【翻譯授權】** CC BY-NC-SA 2.5
 **【連結】**
 　．[原作網站 (www.emptygamebox.com/downloads)](http://www.emptygamebox.com/downloads)
-　．[中文規則 (pdf)](https://drive.google.com/file/d/1LydxvVH39Hh_Cef8UrgmZeiKt8QoE75W/view)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/1AwWeRdF_okaQquhi_9mqqgwjh5G4ioZ0/view?usp=drive_link)
 {{< /boxmd >}}
 
 在成功地發行了一款名為《不死族》的遊戲後，一群軟體工程師來到了阿拉斯加度假，沿著冬季的卡維恰喀(Kvichak)河旅行至伊利亞姆納湖。在湖邊，他們架好了帳篷、並準備找尋那與尼斯湖水怪齊名的伊利亞姆納湖怪。然而，這些工程師並不知道，撰寫《不死族》時的程式碼已經為他們開啟了通往靈魂世界的通道──已經無法回頭了！
