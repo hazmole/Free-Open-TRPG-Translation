@@ -18,6 +18,7 @@ tags:
 　．[原作網站](https://operarpg.jp/)
 　．[中文規則發布](https://drive.google.com/file/d/1JuGaPMpLO6hMzd7CmU_jwRIl3nTQVxea/view?usp=drive_link)
 　．[暗獸角色卡](https://drive.google.com/file/d/1OXmmY3c2xWv70_uJrfMVQI2G9rw9b4bj/view?usp=sharing)
+　．[體驗劇本：少年與畫作](https://drive.google.com/file/d/1AKCiEkav4XvLZcSpd2Wujc36P_XiFgJj/view?usp=drive_link)
 
 {{< /boxmd >}}
 
