@@ -16,9 +16,10 @@ tags:
 **【翻譯授權】** 作者授權
 **【連結】**
 　．[原作網站](https://operarpg.jp/)
-　．[中文規則發布](https://drive.google.com/file/d/1JuGaPMpLO6hMzd7CmU_jwRIl3nTQVxea/view?usp=drive_link)
+　．[中文規則發布](https://drive.google.com/file/d/1JuGaPMpLO6hMzd7CmU_jwRIl3nTQVxea/view?usp=sharing)
 　．[暗獸角色卡](https://drive.google.com/file/d/1OXmmY3c2xWv70_uJrfMVQI2G9rw9b4bj/view?usp=sharing)
-　．[體驗劇本：少年與畫作](https://drive.google.com/file/d/1AKCiEkav4XvLZcSpd2Wujc36P_XiFgJj/view?usp=drive_link)
+　．[體驗劇本：少年與畫作](https://drive.google.com/file/d/1AKCiEkav4XvLZcSpd2Wujc36P_XiFgJj/view?usp=sharing)
+　．[體驗劇本：饗宴的試煉場](https://drive.google.com/file/d/1Suhw9iLgShgFl7ZDuQFJPM8Oe-yPblqo/view?usp=sharing)
 
 {{< /boxmd >}}
 
