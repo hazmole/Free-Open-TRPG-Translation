@@ -15,7 +15,7 @@ tags:
 **【翻譯授權】** CC BY-NC-SA 3.0 & [作者授權](https://i.imgur.com/IIwihdK.png)
 **【連結】**
 　．[原作網站 (lookrobot.co.uk/games)](http://lookrobot.co.uk/games)
-　．[中文規則 (pdf)](https://drive.google.com/file/d/1yxa6xlRMsxW_wW3haWY1iyyd98R3SCUi/view?usp=sharing)
+　．[中文規則 (pdf)](https://drive.google.com/file/d/1o5-bPh2WLgJ_e_K4UsrGhA-AthZ8OG6o/view?usp=sharing)
 {{< /boxmd >}}
 
 時代是1994年，你是一名童子軍。正參與銀行假期在週末為期三天的露營旅遊。
